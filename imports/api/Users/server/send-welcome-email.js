@@ -10,7 +10,7 @@ export default (options, user) => {
 
   return sendEmail({
     to: emailAddress,
-    from: `${applicationName} <support@application.com>`,
+    from: `${applicationName} <support@clovebooks.com>`,
     subject: `[${applicationName}] Welcome, ${firstName}!`,
     template: 'welcome',
     templateVars: {
