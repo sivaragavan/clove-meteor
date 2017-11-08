@@ -1,7 +1,7 @@
 {
   "public": {},
   "private": {
-    "MAIL_URL": "",
+    "MAIL_URL": "smtps://clovedev%40gmail.com:Clove%23books@smtp.gmail.com:465",
     "OAuth": {
       "facebook": {
         "appId": "",
