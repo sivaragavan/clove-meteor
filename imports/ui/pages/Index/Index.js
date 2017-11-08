@@ -6,17 +6,17 @@ import './Index.scss';
 const Index = () => (
   <div className="Index">
     <img
-      src="https://s3-us-west-2.amazonaws.com/cleverbeagle-assets/graphics/email-icon.png"
-      alt="Clever Beagle"
+      src=""
+      alt="Clove"
     />
-    <h1>Pup</h1>
-    <p>A boilerplate for products.</p>
+    <h1>Clove</h1>
+    <p>On-chain Bookstore</p>
     <div>
-      <Button href="http://cleverbeagle.com/pup">Read the Docs</Button>
-      <Button href="https://github.com/cleverbeagle/pup"><i className="fa fa-star" /> Star on GitHub</Button>
+      <Button href="http://clovebooks.com">Read the Docs</Button>
+      <Button href="http://clovebooks.com"><i className="fa fa-star" /> Star on GitHub</Button>
     </div>
     <footer>
-      <p>Need help and want to stay accountable building your product? <a href="http://cleverbeagle.com?utm_source=pupappindex&utm_campaign=oss">Check out Clever Beagle</a>.</p>
+      <p>Need help and want to stay accountable building your product? <a href="http://clovebooks.com">Check out</a>.</p>
     </footer>
   </div>
 );
